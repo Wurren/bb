@@ -1,0 +1,30 @@
+{
+    "devDependencies": {
+        "gulp": "*",
+        "gulp-watch" : "*",
+        "gulp-less": "*",
+        "gulp-minify-css": "*",
+        "gulp-notify": "*",
+        "gulp-uglify": "*",
+        "gulp-concat": "*",
+        "gulp-rename": "*",
+        "gulp-plumber" : "*",
+        "gulp-webserver" : "*",
+        "gulp-babel" : "*",
+        "babel-preset-es2015" : "*",
+        "browserify" : "*",
+        "babelify" : "*",
+        "vinyl-source-stream" : "*",
+        "vinyl-buffer" : "*",
+        "hbsfy" : "*"
+    },
+    "dependencies": {
+        "backbone": "^1.2.2",
+        "jquery": "^2.1.4",
+        "layoutmanager": "0.9.7",
+        "mocha": "^2.2.5",
+        "purecss": "^0.6.0",
+        "underscore": "^1.8.3",
+        "handlebars" : "*"
+    }
+}
